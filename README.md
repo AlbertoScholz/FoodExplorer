@@ -5,7 +5,7 @@ Food Explorer é uma aplicação web de um restaurante que permite que os usuár
 Para utilizar o projeto, siga os seguintes passos:
 Clone o projeto para o local desejado em seu computador usando o comando:
 
-$ git clone git@github.com:andreviapiana/Food-Explorer.git
+$ git clone git@github.com:AlbertoScholz/FoodExplorer.git
 
 No BackEnd, crie um arquivo .env e insira uma porta e um secret nele. Por exemplo:
 
@@ -51,7 +51,7 @@ Para utilizar o projeto, siga os seguintes passos:
 
     Clone o projeto para o local desejado em seu computador usando o comando:
 
-$ git clone git@github.com:andreviapiana/Food-Explorer.git
+$ git clone git@github.com:AlbertoScholz/FoodExplorer.git
 
 No BackEnd, crie um arquivo .env e insira uma porta e um secret nele. Por exemplo:
 
